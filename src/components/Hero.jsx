@@ -61,7 +61,7 @@ export default function Hero({ t }) {
           </div>
           <div className="hero-visual">
             <Banda />
-            <img className="retrato" src={p.foto} alt={`${p.tratamiento} ${p.nombres} ${p.apellidos}, candidato a ${p.cargo}`} width="472" height="591" />
+            <img className="retrato" src={p.foto} alt={`${p.tratamiento} ${p.nombres} ${p.apellidos}, candidato a ${p.cargo}`} width="auto" height="auto" />
             <Papeleta />
           </div>
           <div className="hero-placa">
