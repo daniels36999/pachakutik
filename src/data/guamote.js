@@ -11,7 +11,7 @@ import julian from '../assets/matriz/julian.webp';
 import aficheCebadas from '../assets/afiches/cebadas.webp';
 import afichePalmira from '../assets/afiches/palmira.webp';
 
-// ---------------------------------------------------------------- ALCALDE
+// ---------------------------------------------------------------- ALCALDEEEEE
 export const alcalde = {
   id: 'alcalde',
   tratamiento: 'Ing.',
